@@ -1,8 +1,3 @@
-/*html{
-    background-color: rgb(73, 78, 92);
-
-}
-*/
 body{
     width: 100%;
     height:100vh;
@@ -46,6 +41,7 @@ section{
 
 .backCustom{
     background-color: rgb(180, 154, 201);
+    
 }
 
 .php__logo{
@@ -59,7 +55,7 @@ section{
     left: 0;
     right: 0;
     width: 90%;
+    height: fit-content;
     margin: auto;
-    height: 7%;
     z-index: 1;
 }
