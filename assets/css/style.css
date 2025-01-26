@@ -4,6 +4,10 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.bio-link{
+    margin-bottom: 1rem;
+}
+
 .img-head{
     width: 2 rem;
 }
